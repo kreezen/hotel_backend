@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vonVon\\net_minimal\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\vonVon\\net_minimal\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vonVon\\net_minimal\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\vonVon\\net_minimal\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vonVon\\net_minimal\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\vonVon\\net_minimal\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\vonVon\\net_minimal\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\vonVon\\net_minimal\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\vonVon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vonVon\\net_minimal\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\vonVon\\net_minimal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vonVon\\AppData\\Roaming\\NuGet\\NuGet.Config",
